@@ -143,7 +143,7 @@ h6 {
   max-width: 1060px;
   margin: 0 auto;
   padding: 2rem;
-  padding-top: clamp(5rem, 8vw, 7rem);
+  padding-top: clamp(2rem, 6vw, 5rem);
   display: flex;
   justify-content: center;
   flex-direction: column;
