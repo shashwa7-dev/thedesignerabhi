@@ -51,46 +51,46 @@ const Projects = () => {
       projectID: 1,
       projectTitle: "Polygon Studios HubHunt",
       projectThumbnail: proj1,
-      projectLink: "https://nft-nyc.onrender.com/",
+      projectLink: "",
     },
     {
       projectID: 2,
       projectTitle: "The Product House Drop",
       projectThumbnail: proj2,
-      projectLink: "https://believers.theproduct.house/",
+      projectLink: "",
     },
     {
       projectID: 3,
       projectTitle: "eDAO NH7 x Bacardi NFT Drop",
       projectThumbnail: proj3,
-      projectLink: "https://nh7xwn.dehidden.com/",
+      projectLink: "",
     },
     {
       projectID: 4,
       projectTitle: "Web3rescue",
       projectThumbnail: proj4,
       projectLink:
-        "https://www.figma.com/file/XVAlWqhuVJcbGh2d5hDs7M/Web3Rescue?node-id=0%3A1",
+        "",
     },
     {
       projectID: 5,
       projectTitle: "Let it Snow ETH Denver",
       projectThumbnail: proj5,
-      projectLink: "https://letitsnow.dehidden.com/",
+      projectLink: "",
     },
     {
       projectID: 6,
       projectTitle: "vybe wallet",
       projectThumbnail: proj6,
       projectLink:
-        "https://www.figma.com/file/btwSZQwtctXxZnfWLRxWxz/VYBEwallet?node-id=0%3A1",
+        "",
     },
     {
       projectID: 7,
       projectTitle: "Vester",
       projectThumbnail: proj7,
       projectLink:
-        "https://www.figma.com/file/lzg3q0zTCU0ngiVxInkwVK/Vester?node-id=0%3A1",
+        "",
     },
     {
       projectID: 8,
